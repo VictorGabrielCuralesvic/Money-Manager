@@ -2,9 +2,9 @@
 
 ### Description
 
-A simple but powerful PHP script to manage your expenses with multi-user level and permission. PHP expense manager designed to help individual or business budget, track and possibly control your expenses. It supports tracking of both your expenses and income. This expense management system provides an integrated set of features to help you to manage your expenses and cash flow. It provides the ability to group your income/expenses into categories and lets you set a budget and track expenses in the category.
+Um script PHP simples, mas poderoso, para gerenciar suas despesas com nível e permissão multiusuário. Gerenciador de despesas PHP projetado para ajudar no orçamento individual ou empresarial, rastrear e possivelmente controlar suas despesas. Ele suporta o rastreamento de suas despesas e receitas. Este sistema de gerenciamento de despesas fornece um conjunto integrado de recursos para ajudá-lo a gerenciar suas despesas e fluxo de caixa. Ele oferece a capacidade de agrupar suas receitas/despesas em categorias e permite definir um orçamento e rastrear despesas na categoria. Ele foi baseado, atualizado e feito com o exemplo do usuário Kuljeet-123. 
 
-It can be used as a base platform for any CodeIgniter project
+([Link do Oficial](https://github.com/Kuljeet-123/Money-Manager))
 
 ### Screenshots 
 
@@ -13,24 +13,5 @@ It can be used as a base platform for any CodeIgniter project
 ![Login Page](https://github.com/Kuljeet-123/Money-Manager/blob/master/images/login.png)
 
 ![Signup Page](https://github.com/Kuljeet-123/Money-Manager/blob/master/images/signup.png)
-
-
-
-# Feature List
-- Manage Expense
-- Manage Income
-- Manage Expense Category
-- Manage Income Category
-- Filter by date range
-- Sorting & Pagination
-- Support Multi-user level to Manage the system
-- User Login & Management Included
-- Set different permission for different user type
-- Custom CRUD can be added
-- Easy to customize
-
-License
-----
-No licence, Free to use, modify and distribute
 
 
